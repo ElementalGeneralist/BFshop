@@ -1,0 +1,40 @@
+2022-09-11T00:37:45+00:00 CRITICAL syntax error, unexpected ':', expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\index.php on line 93
+
+2022-09-11T01:08:25+00:00 CRITICAL syntax error, unexpected ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\index.php on line 44
+
+2022-09-11T01:44:23+00:00 CRITICAL Uncaught Error: Call to undefined function comment_template() in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\single.php:38
+Stack trace:
+#0 C:\Users\test\Local Sites\bfshop\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\test\Local Sites\bfshop\app\public\wp-blog-header.php(19): require_once('C:\\Users\\test\\L...')
+#2 C:\Users\test\Local Sites\bfshop\app\public\index.php(17): require('C:\\Users\\test\\L...')
+#3 {main}
+  thrown in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\single.php on line 38
+
+2022-09-11T02:24:51+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 402
+
+2022-09-11T02:24:51+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 402
+
+2022-09-11T02:24:54+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 402
+
+2022-09-11T02:24:55+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 402
+
+2022-09-11T02:24:56+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 402
+
+2022-09-11T02:24:56+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 402
+
+2022-09-11T02:25:06+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 402
+
+2022-09-11T02:25:06+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 402
+
+2022-09-11T02:25:06+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 402
+
+2022-09-11T02:25:07+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 402
+
+2022-09-11T04:03:00+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 402
+
+2022-09-11T04:03:00+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 402
+
+2022-09-11T04:03:01+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 402
+
+2022-09-11T04:03:01+00:00 CRITICAL syntax error, unexpected '$link' (T_VARIABLE), expecting ')' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 402
+

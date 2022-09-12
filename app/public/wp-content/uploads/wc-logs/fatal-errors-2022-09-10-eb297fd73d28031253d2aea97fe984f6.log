@@ -1,0 +1,72 @@
+2022-09-10T03:56:39+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php on line 71
+
+2022-09-10T04:28:58+00:00 CRITICAL Cannot redeclare get_profile() (previously declared in C:\Users\test\Local Sites\bfshop\app\public\wp-includes\deprecated.php:2419) in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 343
+
+2022-09-10T04:28:59+00:00 CRITICAL Cannot redeclare get_profile() (previously declared in C:\Users\test\Local Sites\bfshop\app\public\wp-includes\deprecated.php:2419) in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 343
+
+2022-09-10T04:28:59+00:00 CRITICAL Cannot redeclare get_profile() (previously declared in C:\Users\test\Local Sites\bfshop\app\public\wp-includes\deprecated.php:2419) in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 343
+
+2022-09-10T04:29:00+00:00 CRITICAL Cannot redeclare get_profile() (previously declared in C:\Users\test\Local Sites\bfshop\app\public\wp-includes\deprecated.php:2419) in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 343
+
+2022-09-10T05:03:39+00:00 CRITICAL Cannot redeclare get_the_author_meta() (previously declared in C:\Users\test\Local Sites\bfshop\app\public\wp-includes\author-template.php:161) in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 343
+
+2022-09-10T05:03:40+00:00 CRITICAL Cannot redeclare get_the_author_meta() (previously declared in C:\Users\test\Local Sites\bfshop\app\public\wp-includes\author-template.php:161) in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 343
+
+2022-09-10T05:03:40+00:00 CRITICAL Cannot redeclare get_the_author_meta() (previously declared in C:\Users\test\Local Sites\bfshop\app\public\wp-includes\author-template.php:161) in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 343
+
+2022-09-10T05:03:41+00:00 CRITICAL Cannot redeclare get_the_author_meta() (previously declared in C:\Users\test\Local Sites\bfshop\app\public\wp-includes\author-template.php:161) in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\functions.php on line 343
+
+2022-09-10T05:07:24+00:00 CRITICAL Uncaught Error: Call to undefined function author() in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php:42
+Stack trace:
+#0 C:\Users\test\Local Sites\bfshop\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\test\Local Sites\bfshop\app\public\wp-blog-header.php(19): require_once('C:\\Users\\test\\L...')
+#2 C:\Users\test\Local Sites\bfshop\app\public\index.php(17): require('C:\\Users\\test\\L...')
+#3 {main}
+  thrown in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php on line 42
+
+2022-09-10T05:07:47+00:00 CRITICAL Uncaught Error: Call to undefined function get_author() in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php:42
+Stack trace:
+#0 C:\Users\test\Local Sites\bfshop\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\test\Local Sites\bfshop\app\public\wp-blog-header.php(19): require_once('C:\\Users\\test\\L...')
+#2 C:\Users\test\Local Sites\bfshop\app\public\index.php(17): require('C:\\Users\\test\\L...')
+#3 {main}
+  thrown in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php on line 42
+
+2022-09-10T05:08:02+00:00 CRITICAL Uncaught Error: Call to undefined function get_author() in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php:79
+Stack trace:
+#0 C:\Users\test\Local Sites\bfshop\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\test\Local Sites\bfshop\app\public\wp-blog-header.php(19): require_once('C:\\Users\\test\\L...')
+#2 C:\Users\test\Local Sites\bfshop\app\public\index.php(17): require('C:\\Users\\test\\L...')
+#3 {main}
+  thrown in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php on line 79
+
+2022-09-10T05:24:26+00:00 CRITICAL Uncaught Error: Call to undefined function user_profile_link() in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php:42
+Stack trace:
+#0 C:\Users\test\Local Sites\bfshop\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\test\Local Sites\bfshop\app\public\wp-blog-header.php(19): require_once('C:\\Users\\test\\L...')
+#2 C:\Users\test\Local Sites\bfshop\app\public\index.php(17): require('C:\\Users\\test\\L...')
+#3 {main}
+  thrown in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php on line 42
+
+2022-09-10T05:25:01+00:00 CRITICAL Uncaught Error: Call to undefined function user_profile_link() in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php:42
+Stack trace:
+#0 C:\Users\test\Local Sites\bfshop\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\test\Local Sites\bfshop\app\public\wp-blog-header.php(19): require_once('C:\\Users\\test\\L...')
+#2 C:\Users\test\Local Sites\bfshop\app\public\index.php(17): require('C:\\Users\\test\\L...')
+#3 {main}
+  thrown in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php on line 42
+
+2022-09-10T05:25:18+00:00 CRITICAL Uncaught Error: Call to undefined function user_profile_link() in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php:42
+Stack trace:
+#0 C:\Users\test\Local Sites\bfshop\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\test\Local Sites\bfshop\app\public\wp-blog-header.php(19): require_once('C:\\Users\\test\\L...')
+#2 C:\Users\test\Local Sites\bfshop\app\public\index.php(17): require('C:\\Users\\test\\L...')
+#3 {main}
+  thrown in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php on line 42
+
+2022-09-10T11:10:14+00:00 CRITICAL syntax error, unexpected ':' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php on line 25
+
+2022-09-10T11:10:51+00:00 CRITICAL syntax error, unexpected ':' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\Blog Page.php on line 25
+
+2022-09-10T15:56:18+00:00 CRITICAL syntax error, unexpected '<' in C:\Users\test\Local Sites\bfshop\app\public\wp-content\themes\bfshop\single.php on line 27
+
